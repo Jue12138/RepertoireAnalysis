@@ -1,4 +1,4 @@
-# Analysis of Contemporary Works Performance by American Symphony Orchestras (2014-2017)
+# Repertoire Analysis of American Full-time Symphony Orchestra (2014-2017)
 ## Introduction:
 This repository provides an in-depth analysis of the performance frequency of contemporary classical music works by American symphony orchestras over a three-year span from 2014 to 2017. The aim is to explore trends and predictions in the contemporary classical music domain, addressing common concerns about the state and future of classical music.
 
