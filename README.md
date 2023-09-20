@@ -17,10 +17,10 @@ Despite occasional concerns regarding the status of classical music, the analysi
 
 ## Usage:
 ### Dependencies:
-Python
-pandas
-seaborn
-matplotlib
+Python, 
+pandas, 
+seaborn, 
+matplotlib, 
 sklearn
 
 ## Future Directions:
